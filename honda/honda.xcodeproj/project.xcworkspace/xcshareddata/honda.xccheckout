@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>73176868-ADF3-431B-99F0-5904EFB9A0B7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>honda</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0DAEE5F4-F66B-48ED-B80F-A809D81B7778</key>
+		<string>https://github.com/dtcloudpower/honda6.13.git</string>
+		<key>8B861FE2-C560-415A-946A-31F816DEE981</key>
+		<string>https://github.com/chenfeilong/honda.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>honda.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0DAEE5F4-F66B-48ED-B80F-A809D81B7778</key>
+		<string>../..</string>
+		<key>8B861FE2-C560-415A-946A-31F816DEE981</key>
+		<string>../../honda</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dtcloudpower/honda6.13.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0DAEE5F4-F66B-48ED-B80F-A809D81B7778</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0DAEE5F4-F66B-48ED-B80F-A809D81B7778</string>
+			<key>IDESourceControlWCCName</key>
+			<string>honda</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B861FE2-C560-415A-946A-31F816DEE981</string>
+			<key>IDESourceControlWCCName</key>
+			<string>honda</string>
+		</dict>
+	</array>
+</dict>
+</plist>
